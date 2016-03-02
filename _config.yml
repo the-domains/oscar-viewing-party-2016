@@ -1,0 +1,28 @@
+name: Oscar Viewing Party 2016
+favicon: null
+layout_spectrum: 0.08825643640011549
+typography_spectrum: 0.5096059606876224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9048124998807907
+  lightness: 0.5600656382739544
+  saturation: 0.20297122350893915
+  rhythmicContrast: 0.792228986043483
+purpose: []
